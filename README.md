@@ -1,4 +1,4 @@
-Ecommerce App for Android + iOS (Flutter)
+# Ecommerce App for Android + iOS (Flutter)
 
 ![Screenshot_20200919-102324](https://user-images.githubusercontent.com/50584809/98020816-52ff0500-1e25-11eb-8a10-35ccec1a085d.jpg)
 
