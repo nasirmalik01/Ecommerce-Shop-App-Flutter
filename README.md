@@ -64,9 +64,3 @@
 
 
 
-![Screenshot_20200919-105142](https://user-images.githubusercontent.com/50584809/98020933-74f88780-1e25-11eb-9aea-0ccf6ffcd4d3.jpg)
-
-
-
-
-
