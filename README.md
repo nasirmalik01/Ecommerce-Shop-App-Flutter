@@ -6,5 +6,5 @@
 
 &nbsp;  
 
-<img src="7.jpg" width=265, height:270>
+<img src="images/7.jpg" width=265, height:270>
 
